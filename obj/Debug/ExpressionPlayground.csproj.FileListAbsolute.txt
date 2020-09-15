@@ -1,0 +1,9 @@
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\bin\Debug\ExpressionPlayground.exe.config
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\bin\Debug\ExpressionPlayground.exe
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\bin\Debug\ExpressionPlayground.pdb
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\bin\Debug\Flee.Net45.dll
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\obj\Debug\ExpressionPlayground.csprojAssemblyReference.cache
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\obj\Debug\ExpressionPlayground.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\obj\Debug\ExpressionPlayground.csproj.CopyComplete
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\obj\Debug\ExpressionPlayground.exe
+C:\Users\scott\source\repos\ExpressionPlayground\ExpressionPlayground\obj\Debug\ExpressionPlayground.pdb
